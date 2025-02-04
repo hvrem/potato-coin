@@ -10,7 +10,7 @@ import {
 import { motion, AnimatePresence } from 'framer-motion';
 import '../styles/PotatoCoin.css';
 
-const CONTRACT_ADDRESS = "0x000...YOUR_CONTRACT_ADDRESS"; // Replace with actual address
+const CONTRACT_ADDRESS = "5rnsq6uu1UWQ3Z3AuUcJFoN1sngSv4zipURQJijg7NyB"; // Replace with actual address
 
 const PotatoGarden = () => {
   const [plantedPotatoes, setPlantedPotatoes] = useState([]);
